@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-drum-machine-feecodecamp/static/css/main.3530ff5a.css",
+    "main.js": "/react-drum-machine-feecodecamp/static/js/main.1cb1a6b6.js",
+    "static/js/787.28cb0dcd.chunk.js": "/react-drum-machine-feecodecamp/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Kick.mp3": "/react-drum-machine-feecodecamp/static/media/Kick.72881f4bf80d341da208.mp3",
+    "static/media/Heater-1.mp3": "/react-drum-machine-feecodecamp/static/media/Heater-1.cb8d95b6caf027812d3b.mp3",
+    "static/media/Heater-2.mp3": "/react-drum-machine-feecodecamp/static/media/Heater-2.4ed25e5b07da91b794d7.mp3",
+    "static/media/Heater-3.mp3": "/react-drum-machine-feecodecamp/static/media/Heater-3.4c4d3fd017dfed721765.mp3",
+    "static/media/Heater-4.mp3": "/react-drum-machine-feecodecamp/static/media/Heater-4.0c29815eb40bbe7d4d7b.mp3",
+    "static/media/Open-HH.mp3": "/react-drum-machine-feecodecamp/static/media/Open-HH.5f33c02936f6ec6f8199.mp3",
+    "static/media/Clap.mp3": "/react-drum-machine-feecodecamp/static/media/Clap.faf5d12a1a4a7ffacf09.mp3",
+    "static/media/Kick_n_Hat.mp3": "/react-drum-machine-feecodecamp/static/media/Kick_n_Hat.6dc44dc15fca60d9d594.mp3",
+    "static/media/Closed-HH.mp3": "/react-drum-machine-feecodecamp/static/media/Closed-HH.0b159bd307a31937b138.mp3",
+    "index.html": "/react-drum-machine-feecodecamp/index.html",
+    "main.3530ff5a.css.map": "/react-drum-machine-feecodecamp/static/css/main.3530ff5a.css.map",
+    "main.1cb1a6b6.js.map": "/react-drum-machine-feecodecamp/static/js/main.1cb1a6b6.js.map",
+    "787.28cb0dcd.chunk.js.map": "/react-drum-machine-feecodecamp/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3530ff5a.css",
+    "static/js/main.1cb1a6b6.js"
+  ]
+}
